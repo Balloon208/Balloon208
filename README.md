@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gnswldms2">
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=arkk200">
