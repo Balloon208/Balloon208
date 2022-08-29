@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gnswldms2">
-<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haesoo9410">
