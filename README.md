@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=arkk200">
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gnswldms2">
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gnswldms2)](https://solved.ac/gnswldms2)
