@@ -1,4 +1,4 @@
-### Hi there 👋
+![Balloon208's GitHub stats](https://github-readme-stats.vercel.app/api?username=Balloon208&show_icons=true&theme=radical) 
 
 <!--
 **Balloon208/Balloon208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
