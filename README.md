@@ -1,5 +1,4 @@
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gnswldms2)](https://solved.ac/gnswldms2/)
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gnswldms2">
 
 <!--
 **Balloon208/Balloon208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
