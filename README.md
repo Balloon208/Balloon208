@@ -1,5 +1,6 @@
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gnswldms2)](https://solved.ac/gnswldms2)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gnswldms2)](https://solved.ac/gnswldms2)
+출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
 <!--
 **Balloon208/Balloon208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
